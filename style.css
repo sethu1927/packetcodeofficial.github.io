@@ -1,0 +1,41 @@
+html,body{
+    margin: 0;
+    width: 100%;
+}
+.main_container{
+    width: 100%;
+    height: 1080px;
+    position: absolute;
+
+}
+
+.background_class{
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    width: 100%;
+    margin-top: 15%;
+    position: absolute;
+    font-size: 8vw;
+    font-weight: bold;
+    text-align: center;
+    color: rgba(86, 172, 201, 0.813);
+    font-family: sans-serif, 'Oswald';
+    letter-spacing: 10px;
+}
+
+#CLOCK{
+    width: 100%;
+    position: absolute;
+    font-size: 9vw;
+    color: rgba(132, 129, 224, 0.998);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 25%;
+}
+
+
+
+
